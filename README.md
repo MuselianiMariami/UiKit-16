@@ -9,6 +9,5 @@
 </br>
 <div align="center">
 <img src="https://github.com/MuselianiMariami/UiKit-16/assets/137683336/039b7a9b-3f99-49e4-bb8e-9b1b1effe3c8" width="300">
-  <span>...</span>
 <img src="https://github.com/MuselianiMariami/UiKit-16/assets/137683336/9c1736aa-3639-4dda-8db5-407346cf0280" width="300">
 </div>
